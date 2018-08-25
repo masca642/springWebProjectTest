@@ -15,5 +15,4 @@ public class MainController {
 		mav.setViewName("main/main");  // webapp/WEB-INF/views/main/main.jsp 호출
 		return mav;
 	}
-
 }
